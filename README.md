@@ -22,21 +22,21 @@ I build AI-powered documentation, knowledge platforms, and automation tools — 
 ### **Eurekapp > AI-Powered Knowledge Base Intelligence & Automation**
 End-to-end system that scans and reconstructs large Aha! Knowledge Bases, builds a RAG pipeline (pgvector), enables a grounded Copilot, and automates work requests and inline comments back into Aha.
 
-→ Case study: *(link to portfolio page when public)*
+→ Case study: *(coming soon)*
 
 ---
 
 ### **Omniglot > Translation / Localization Wrapper + Job Pipeline**
 Platform for batch translation of UI microcopy and documentation using model selection, glossaries, style rules, and structured jobs.
 
-→ Case study: *(link to portfolio page when public)*
+→ Case study: *(coming soon)*
 
 ---
 
 ### **AI Tunes > Local Fine-Tuning & Evaluation Lab**
 Tooling for dataset creation, adapter training (LoRA), and evaluation workflows for local models > designed to test behavior, consistency, and automation scenarios.
 
-→ Case study: *(link to portfolio page when public)*
+→ Case study: *(coming soon)*
 
 ---
 
