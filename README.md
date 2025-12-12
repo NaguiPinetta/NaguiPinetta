@@ -31,6 +31,6 @@ Tooling for dataset creation, training adapters (LoRA), and evaluation workflows
 - `bigsteplabs-sveltekit` — language learning platform / agents
 
 ## Contact
-- Location: Germany / Remote (EU)
-- Website: **(add later)**
-- LinkedIn: **(add later)**
+- Germany / Remote (EU)
+- LinkedIn: https://www.linkedin.com/in/jonathan-demian-pinetta/
+- Portfolio: (coming soon)
