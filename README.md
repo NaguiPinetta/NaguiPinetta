@@ -1,58 +1,50 @@
-# NaguiPinetta (Jonathan Demian Pinetta)
+# Jonathan "Nagui" Pinetta
 
-Technical Writer • UX Writer • Systems Architect  
-I build AI-powered documentation, knowledge platforms, and automation tools — especially for complex products in logistics, SaaS, and enterprise workflows.
+**Product architect · Technical writer · AI systems builder**
+I design and build AI-powered engineering systems: spec-first development platforms, local-first tooling, documentation and localization systems — and I write about what actually happens when agents do the work.
 
-📍 Germany / Remote (EU)  
-🔗 LinkedIn: https://www.linkedin.com/in/jonathan-demian-pinetta/
-
----
-
-## What I’m focused on
-
-- Knowledge base intelligence (RAG, chunking/embeddings, structured export)
-- Documentation systems at scale (standards, templates, IA, governance)
-- Localization & terminology systems (glossaries, TMS workflows, microcopy quality)
-- Builder mindset: turning documentation pain into productized tools
+📍 Germany / Remote (EU)
+🔗 [Portfolio](https://www.jdpinetta.ink) · [Blog — Lost Bytes](https://lostbytes.blog) · [LinkedIn](https://www.linkedin.com/in/jonathan-demian-pinetta/)
 
 ---
 
-## Flagship Work
+## Focus (2026)
 
-### **Eurekapp > AI-Powered Knowledge Base Intelligence & Automation**
-End-to-end system that scans and reconstructs large Aha! Knowledge Bases, builds a RAG pipeline (pgvector), enables a grounded Copilot, and automates work requests and inline comments back into Aha.
+- **Agentic engineering systems** — spec-first pipelines where AI agents implement, verify, and report under tight contracts
+- **Local-first AI tooling** — fine-tuning, evaluation, and inference workflows that run entirely on local hardware
+- **Documentation & knowledge systems** — knowledge graphs, docs-as-code curricula, structured content pipelines
+- **Localization engineering** — glossary-driven translation systems, terminology governance, microcopy quality
 
-→ Case study: *(coming soon)*
+## Selected systems
 
----
+Most of this work lives in private repos; case studies at [jdpinetta.ink → Work](https://www.jdpinetta.ink/#work).
 
-### **Omniglot > Translation / Localization Wrapper + Job Pipeline**
-Platform for batch translation of UI microcopy and documentation using model selection, glossaries, style rules, and structured jobs.
+- **Dark Factory** — AI product engineering platform: design interview → spec → wireframe → pipeline run → published artifact
+- **Migrai** — local-first platform for analyzing and migrating AI-powered systems across model vendors, with verified behavioral evidence
+- **TuneKit** — local fine-tuning platform: training runs, adapter registry, evaluation
+- **Benchy** — LLM code-benchmark platform built on real production corpora
+- **Noise Distiller** — feed aggregation and intelligence platform with event clustering
+- **Night Loop** — spec-first project OS for agentic development ([`nightloop-cli`](https://github.com/NaguiPinetta/nightloop-cli) is public)
+- **Omniglot** — localization engine for structured translation workflows
+- **AEO Kit + Console** — schema and CLI tooling for agent interface governance
 
-→ Case study: *(coming soon)*
+## Public repos
 
----
+- [`nightloop-cli`](https://github.com/NaguiPinetta/nightloop-cli) — spec-first project operating system for AI-assisted development
+- [`lost-bytes-blog`](https://github.com/NaguiPinetta/lost-bytes-blog) — the Astro blog behind [lostbytes.blog](https://lostbytes.blog)
+- [`i18n-platform-template`](https://github.com/NaguiPinetta/i18n-platform-template) — reusable i18n/localization pipeline (Svelte + shadcn + TS)
+- [`neobrutalism-platform-template`](https://github.com/NaguiPinetta/neobrutalism-platform-template) — SvelteKit platform template with a neo-brutalist design system
 
-### **AI Tunes > Local Fine-Tuning & Evaluation Lab**
-Tooling for dataset creation, adapter training (LoRA), and evaluation workflows for local models > designed to test behavior, consistency, and automation scenarios.
+## Writing
 
-→ Case study: *(coming soon)*
+Recent on [Lost Bytes](https://lostbytes.blog):
 
----
+- *I Built a Spec-First Framework for Coding Agents. It Made Them Worse*
+- *Malware That Prompt-Injects Your AI Code Scanner*
+- *Dynamic Workflows: When the Agent Writes Its Own Orchestration*
 
-## Selected Repositories
+## Elsewhere
 
-- **jdp-portfolio-2025** > Portfolio site (SvelteKit + MDsveX)
-- **eurekapp** > Knowledge base automation & RAG platform
-- **omniglot-wrapper** > Localization / translation system
-- **aitunes** > Model training & evaluation workflows
-- **raggit** > RAG + specs tooling experiments
-- **bigsteplabs-sveltekit** > Language learning platform & agents
+Day job reality: I also run **BigStep Idiomas**, a language school — six years and counting — where a lot of this tooling gets stress-tested on real content.
 
----
-
-## Contact
-
-- Germany / Remote (EU)
-- LinkedIn: https://www.linkedin.com/in/jonathan-demian-pinetta/
-- Portfolio: *(coming soon)*
+📫 jdpinetta@gmail.com
